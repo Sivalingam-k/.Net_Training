@@ -5,23 +5,47 @@ using System.Security.Cryptography.X509Certificates;
 
 internal class Program
 {
-      class Age
-    {
-        private readonly int _year;
-        public Age(int year) {
-           this._year = year;
-            Console.WriteLine(this._year);
-        }
-        public void getAge()
-        {
+    //  class Age
+    //{
+    //    private readonly int _year;
+    //    public Age(int year) {
+    //       this._year = year;
+    //        Console.WriteLine(this._year);
+    //    }
+    //    public void getAge()
+    //    {
            
            
-        }
-    }
+    //    }
+    //}
 private static void Main(string[] args)
     {
-        Age a = new Age(1990);
-        a.getAge(); 
+
+        //Constructor OverLoading
+        //Employee e1, e2, e3;
+        //e1 = new Employee("Siva",21);
+        //Console.WriteLine("Employee Name :" + e1.employeeName + " Employee Age :" + e1.age);
+        //Console.WriteLine();
+        //e2 = new Employee("Eashwar", 21,2500.0);
+        //Console.WriteLine("Employee Name :" + e2.employeeName + " Employee Age :" + e2.age + " Employee Salary : "+e2.salary);
+        //Console.WriteLine();
+        //e3 = new Employee("Dinesh", 21,20000.0,"ChangePond");
+        //Console.WriteLine("Employee Name :" + e3.employeeName + " Employee Age :" + e3.age + " Employee Salary : " + e3.salary +"  Company Name : "+e3.company);
+
+        //Console.WriteLine();
+        //------------------------------------------------------------------
+        //Object Initialization
+
+        Student s1, s2;
+        s1 = new Student() { studentId = 1, studentName = "Siva" };
+        s1.Age = 25;
+        Console.WriteLine("Student Id :" + s1.studentId);
+        Console.WriteLine("Name :" + s1.studentName);
+        Console.WriteLine("marks :" + s1.marks);
+        Console.WriteLine("Age:" + s1.Age);
+
+        //Age a = new Age(1990);
+        //a.getAge(); 
         //Console.WriteLine("Welcome to OOps Concept!!");
 
         //Student s1 = new Student();   
@@ -29,7 +53,7 @@ private static void Main(string[] args)
         //s1.studentName = "Shivalingam";
         //s1.marks = 100;
         //Student.collegeName = "MASC";
-       
+
 
         //Console.WriteLine("Student_id : " +s1.studentId);
         //Console.WriteLine("Student_Name : " + s1.studentName);

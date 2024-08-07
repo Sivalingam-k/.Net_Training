@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Sivalingam.K\\source\\repos\\demoApp2\\demoApp2\\demoApp2.csproj",
+      "projectUniqueName": "C:\\Users\\Sivalingam.K\\source\\repos\\DAY-2\\demoApp2\\demoApp2\\demoApp2.csproj",
       "projectName": "demoApp2",
-      "projectPath": "C:\\Users\\Sivalingam.K\\source\\repos\\demoApp2\\demoApp2\\demoApp2.csproj",
+      "projectPath": "C:\\Users\\Sivalingam.K\\source\\repos\\DAY-2\\demoApp2\\demoApp2\\demoApp2.csproj",
       "packagesPath": "C:\\Users\\Sivalingam.K\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Sivalingam.K\\source\\repos\\demoApp2\\demoApp2\\obj\\",
+      "outputPath": "C:\\Users\\Sivalingam.K\\source\\repos\\DAY-2\\demoApp2\\demoApp2\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Sivalingam.K\\AppData\\Roaming\\NuGet\\NuGet.Config",

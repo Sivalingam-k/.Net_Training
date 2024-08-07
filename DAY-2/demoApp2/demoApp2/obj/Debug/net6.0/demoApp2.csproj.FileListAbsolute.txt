@@ -12,3 +12,17 @@ C:\Users\Sivalingam.K\source\repos\demoApp2\demoApp2\obj\Debug\net6.0\refint\dem
 C:\Users\Sivalingam.K\source\repos\demoApp2\demoApp2\obj\Debug\net6.0\demoApp2.pdb
 C:\Users\Sivalingam.K\source\repos\demoApp2\demoApp2\obj\Debug\net6.0\demoApp2.genruntimeconfig.cache
 C:\Users\Sivalingam.K\source\repos\demoApp2\demoApp2\obj\Debug\net6.0\ref\demoApp2.dll
+C:\Users\Sivalingam.K\source\repos\DAY-2\demoApp2\demoApp2\bin\Debug\net6.0\demoApp2.exe
+C:\Users\Sivalingam.K\source\repos\DAY-2\demoApp2\demoApp2\bin\Debug\net6.0\demoApp2.deps.json
+C:\Users\Sivalingam.K\source\repos\DAY-2\demoApp2\demoApp2\bin\Debug\net6.0\demoApp2.runtimeconfig.json
+C:\Users\Sivalingam.K\source\repos\DAY-2\demoApp2\demoApp2\bin\Debug\net6.0\demoApp2.dll
+C:\Users\Sivalingam.K\source\repos\DAY-2\demoApp2\demoApp2\bin\Debug\net6.0\demoApp2.pdb
+C:\Users\Sivalingam.K\source\repos\DAY-2\demoApp2\demoApp2\obj\Debug\net6.0\demoApp2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sivalingam.K\source\repos\DAY-2\demoApp2\demoApp2\obj\Debug\net6.0\demoApp2.AssemblyInfoInputs.cache
+C:\Users\Sivalingam.K\source\repos\DAY-2\demoApp2\demoApp2\obj\Debug\net6.0\demoApp2.AssemblyInfo.cs
+C:\Users\Sivalingam.K\source\repos\DAY-2\demoApp2\demoApp2\obj\Debug\net6.0\demoApp2.csproj.CoreCompileInputs.cache
+C:\Users\Sivalingam.K\source\repos\DAY-2\demoApp2\demoApp2\obj\Debug\net6.0\demoApp2.dll
+C:\Users\Sivalingam.K\source\repos\DAY-2\demoApp2\demoApp2\obj\Debug\net6.0\refint\demoApp2.dll
+C:\Users\Sivalingam.K\source\repos\DAY-2\demoApp2\demoApp2\obj\Debug\net6.0\demoApp2.pdb
+C:\Users\Sivalingam.K\source\repos\DAY-2\demoApp2\demoApp2\obj\Debug\net6.0\demoApp2.genruntimeconfig.cache
+C:\Users\Sivalingam.K\source\repos\DAY-2\demoApp2\demoApp2\obj\Debug\net6.0\ref\demoApp2.dll
