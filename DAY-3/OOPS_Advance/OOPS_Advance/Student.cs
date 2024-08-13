@@ -6,24 +6,24 @@ using System.Threading.Tasks;
 
 namespace OOPS_Advance
 {
-    internal class Student:Person
-    {
-        public int studentId { get; set; }
-        public int marks { get; set; }  
+    //internal class Student:Person
+    //{
+    //    public int studentId { get; set; }
+    //    public int marks { get; set; }  
 
-        public Student(string firstName, string lastName, string gender,int studentId,int marks):base(firstName, lastName, gender)
-        {
-            this.studentId = studentId;
-            this.marks = marks;
-        }
+        //public Student(string firstName, string lastName, string gender,int studentId,int marks):base(firstName, lastName, gender)
+        //{
+        //    this.studentId = studentId;
+        //    this.marks = marks;
+        //}
        
 
-        //POLYMORPHISM
-        public void displayDetails() {
-            base.displayDetails();
-            Console.WriteLine("Student Id :" + this.studentId);
-            Console.WriteLine("Student Marks : "+this.marks);
-        }
+        ////POLYMORPHISM
+        //public void displayDetails() {
+        //    base.displayDetails();
+        //    Console.WriteLine("Student Id :" + this.studentId);
+        //    Console.WriteLine("Student Marks : "+this.marks);
+        //}
 
         //public void displayStudentDetails()
         //{
@@ -34,5 +34,5 @@ namespace OOPS_Advance
         //    Console.WriteLine("Student Marks :" + marks);
 
         //}
-    }
+    //}
 }

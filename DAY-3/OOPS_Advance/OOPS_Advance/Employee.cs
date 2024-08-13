@@ -17,20 +17,26 @@ namespace OOPS_Advance
         }
         public double salary { get; set; }
 
-        public Employee(string firstName, string lastName, string gender, int _empId, int salary) : base(firstName, lastName, gender)
+        public override string displayDetails()
         {
-            this._empId = _empId;
-            this.salary = salary;
+           
+            return "EmpID : " + _empId + " FullName : " + this.firstName + " " + this.lastName + "  Gender : " + this.gender + "  Salary : " + salary;
         }
 
-      
-        //POLYMORPHISM
-        public void displayDetails()
-        {
-            Console.WriteLine("Employee Id :" + this._empId);
-            base.displayDetails(); 
-            Console.WriteLine("Employee Salary : " + this.salary);
-        }
+        //public Employee(string firstName, string lastName, string gender, int _empId, int salary) : base(firstName, lastName, gender)
+        //{
+        //    this._empId = _empId;
+        //    this.salary = salary;
+        //}
+
+
+        ////POLYMORPHISM
+        //public void displayDetails()
+        //{
+        //    Console.WriteLine("Employee Id :" + this._empId);
+        //    base.displayDetails(); 
+        //    Console.WriteLine("Employee Salary : " + this.salary);
+        //}
         //public void displayEmployeeDetails()
         //{
         //    Console.WriteLine("Employee Id :" + _empId);

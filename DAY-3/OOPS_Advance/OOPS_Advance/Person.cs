@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace OOPS_Advance
 {
-    internal class Person
+    abstract class Person
     {
        
         public string firstName { set; get; }
@@ -14,18 +14,21 @@ namespace OOPS_Advance
 
         public string gender { set; get; }
 
+        public abstract string displayDetails();
 
-        public Person(string firstName,string lastName,string gender)
-        {
-            this.firstName=firstName;
-            this.lastName=lastName; 
-            this.gender=gender; 
-        }
-        //POLYMORPHISM
-        public void displayDetails()
-        {
-            Console.WriteLine("FullName : " + this.firstName + " " + this.lastName);
-            Console.WriteLine("Gender : " + this.gender);
-        }
+        //public Person(string firstName,string lastName,string gender)
+        //{
+        //    this.firstName=firstName;
+        //    this.lastName=lastName; 
+        //    this.gender=gender; 
+        //}
+        ////POLYMORPHISM
+        //public void displayDetails()
+        //{
+        //    Console.WriteLine("FullName : " + this.firstName + " " + this.lastName);
+        //    Console.WriteLine("Gender : " + this.gender);
+        //}
+
+        
     }
 }

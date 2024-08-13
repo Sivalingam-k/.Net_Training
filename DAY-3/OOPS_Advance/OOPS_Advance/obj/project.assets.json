@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Sivalingam.K\\source\\repos\\OOPS_Advance\\OOPS_Advance\\OOPS_Advance.csproj",
+      "projectUniqueName": "C:\\Users\\Sivalingam.K\\source\\repos\\DAY-3\\OOPS_Advance\\OOPS_Advance\\OOPS_Advance.csproj",
       "projectName": "OOPS_Advance",
-      "projectPath": "C:\\Users\\Sivalingam.K\\source\\repos\\OOPS_Advance\\OOPS_Advance\\OOPS_Advance.csproj",
+      "projectPath": "C:\\Users\\Sivalingam.K\\source\\repos\\DAY-3\\OOPS_Advance\\OOPS_Advance\\OOPS_Advance.csproj",
       "packagesPath": "C:\\Users\\Sivalingam.K\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Sivalingam.K\\source\\repos\\OOPS_Advance\\OOPS_Advance\\obj\\",
+      "outputPath": "C:\\Users\\Sivalingam.K\\source\\repos\\DAY-3\\OOPS_Advance\\OOPS_Advance\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Sivalingam.K\\AppData\\Roaming\\NuGet\\NuGet.Config",
