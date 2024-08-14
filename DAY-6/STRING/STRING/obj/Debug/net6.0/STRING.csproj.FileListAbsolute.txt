@@ -1,0 +1,14 @@
+C:\Users\Sivalingam.K\source\repos\STRING\STRING\bin\Debug\net6.0\STRING.exe
+C:\Users\Sivalingam.K\source\repos\STRING\STRING\bin\Debug\net6.0\STRING.deps.json
+C:\Users\Sivalingam.K\source\repos\STRING\STRING\bin\Debug\net6.0\STRING.runtimeconfig.json
+C:\Users\Sivalingam.K\source\repos\STRING\STRING\bin\Debug\net6.0\STRING.dll
+C:\Users\Sivalingam.K\source\repos\STRING\STRING\bin\Debug\net6.0\STRING.pdb
+C:\Users\Sivalingam.K\source\repos\STRING\STRING\obj\Debug\net6.0\STRING.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sivalingam.K\source\repos\STRING\STRING\obj\Debug\net6.0\STRING.AssemblyInfoInputs.cache
+C:\Users\Sivalingam.K\source\repos\STRING\STRING\obj\Debug\net6.0\STRING.AssemblyInfo.cs
+C:\Users\Sivalingam.K\source\repos\STRING\STRING\obj\Debug\net6.0\STRING.csproj.CoreCompileInputs.cache
+C:\Users\Sivalingam.K\source\repos\STRING\STRING\obj\Debug\net6.0\STRING.dll
+C:\Users\Sivalingam.K\source\repos\STRING\STRING\obj\Debug\net6.0\refint\STRING.dll
+C:\Users\Sivalingam.K\source\repos\STRING\STRING\obj\Debug\net6.0\STRING.pdb
+C:\Users\Sivalingam.K\source\repos\STRING\STRING\obj\Debug\net6.0\STRING.genruntimeconfig.cache
+C:\Users\Sivalingam.K\source\repos\STRING\STRING\obj\Debug\net6.0\ref\STRING.dll
