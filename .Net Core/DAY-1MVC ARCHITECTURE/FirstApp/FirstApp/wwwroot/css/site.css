@@ -1,0 +1,36 @@
+html {
+  font-size: 14px;
+}
+
+@media (min-width: 768px) {
+  html {
+    font-size: 16px;
+  }
+}
+
+html {
+  position: relative;
+  min-height: 100%;
+}
+
+body {
+    margin-bottom: 60px;
+  
+}
+h2,p{
+    color:red;
+   
+}
+h1{
+    color:lightslategray;
+}
+#greet {
+    color: deeppink;
+}
+#green {
+    color: green;
+}
+div{
+    color:deepskyblue;
+    border-radius:2px;
+}
