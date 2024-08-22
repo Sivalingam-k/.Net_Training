@@ -4110,11 +4110,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Sivalingam.K\\source\\repos\\WebApplicationMVC\\WebApplicationMVC\\WebApplicationMVC.csproj",
+      "projectUniqueName": "C:\\Users\\Sivalingam.K\\source\\repos\\.Net Core\\DAY-3EF(ADD )\\DOTNET-DB\\WebApplicationMVC\\WebApplicationMVC\\WebApplicationMVC.csproj",
       "projectName": "WebApplicationMVC",
-      "projectPath": "C:\\Users\\Sivalingam.K\\source\\repos\\WebApplicationMVC\\WebApplicationMVC\\WebApplicationMVC.csproj",
+      "projectPath": "C:\\Users\\Sivalingam.K\\source\\repos\\.Net Core\\DAY-3EF(ADD )\\DOTNET-DB\\WebApplicationMVC\\WebApplicationMVC\\WebApplicationMVC.csproj",
       "packagesPath": "C:\\Users\\Sivalingam.K\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Sivalingam.K\\source\\repos\\WebApplicationMVC\\WebApplicationMVC\\obj\\",
+      "outputPath": "C:\\Users\\Sivalingam.K\\source\\repos\\.Net Core\\DAY-3EF(ADD )\\DOTNET-DB\\WebApplicationMVC\\WebApplicationMVC\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Sivalingam.K\\AppData\\Roaming\\NuGet\\NuGet.Config",

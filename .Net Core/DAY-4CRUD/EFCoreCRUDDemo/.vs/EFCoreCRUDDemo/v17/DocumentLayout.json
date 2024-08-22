@@ -1,0 +1,139 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Sivalingam.K\\source\\repos\\EFCoreCRUDDemo\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C7F1940B-6920-48F2-A4CD-2164C03290A8}|EFCoreCRUDDemo\\EFCoreCRUDDemo.csproj|c:\\users\\sivalingam.k\\source\\repos\\efcorecruddemo\\efcorecruddemo\\views\\department\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C7F1940B-6920-48F2-A4CD-2164C03290A8}|EFCoreCRUDDemo\\EFCoreCRUDDemo.csproj|solutionrelative:efcorecruddemo\\views\\department\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C7F1940B-6920-48F2-A4CD-2164C03290A8}|EFCoreCRUDDemo\\EFCoreCRUDDemo.csproj|c:\\users\\sivalingam.k\\source\\repos\\efcorecruddemo\\efcorecruddemo\\models\\companycontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C7F1940B-6920-48F2-A4CD-2164C03290A8}|EFCoreCRUDDemo\\EFCoreCRUDDemo.csproj|solutionrelative:efcorecruddemo\\models\\companycontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C7F1940B-6920-48F2-A4CD-2164C03290A8}|EFCoreCRUDDemo\\EFCoreCRUDDemo.csproj|c:\\users\\sivalingam.k\\source\\repos\\efcorecruddemo\\efcorecruddemo\\controllers\\departmentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C7F1940B-6920-48F2-A4CD-2164C03290A8}|EFCoreCRUDDemo\\EFCoreCRUDDemo.csproj|solutionrelative:efcorecruddemo\\controllers\\departmentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C7F1940B-6920-48F2-A4CD-2164C03290A8}|EFCoreCRUDDemo\\EFCoreCRUDDemo.csproj|c:\\users\\sivalingam.k\\source\\repos\\efcorecruddemo\\efcorecruddemo\\views\\employee\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C7F1940B-6920-48F2-A4CD-2164C03290A8}|EFCoreCRUDDemo\\EFCoreCRUDDemo.csproj|solutionrelative:efcorecruddemo\\views\\employee\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C7F1940B-6920-48F2-A4CD-2164C03290A8}|EFCoreCRUDDemo\\EFCoreCRUDDemo.csproj|c:\\users\\sivalingam.k\\source\\repos\\efcorecruddemo\\efcorecruddemo\\controllers\\employeecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C7F1940B-6920-48F2-A4CD-2164C03290A8}|EFCoreCRUDDemo\\EFCoreCRUDDemo.csproj|solutionrelative:efcorecruddemo\\controllers\\employeecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C7F1940B-6920-48F2-A4CD-2164C03290A8}|EFCoreCRUDDemo\\EFCoreCRUDDemo.csproj|c:\\users\\sivalingam.k\\source\\repos\\efcorecruddemo\\efcorecruddemo\\views\\employee\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C7F1940B-6920-48F2-A4CD-2164C03290A8}|EFCoreCRUDDemo\\EFCoreCRUDDemo.csproj|solutionrelative:efcorecruddemo\\views\\employee\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C7F1940B-6920-48F2-A4CD-2164C03290A8}|EFCoreCRUDDemo\\EFCoreCRUDDemo.csproj|c:\\users\\sivalingam.k\\source\\repos\\efcorecruddemo\\efcorecruddemo\\views\\employee\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C7F1940B-6920-48F2-A4CD-2164C03290A8}|EFCoreCRUDDemo\\EFCoreCRUDDemo.csproj|solutionrelative:efcorecruddemo\\views\\employee\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CompanyContext.cs",
+              "DocumentMoniker": "C:\\Users\\Sivalingam.K\\source\\repos\\EFCoreCRUDDemo\\EFCoreCRUDDemo\\Models\\CompanyContext.cs",
+              "RelativeDocumentMoniker": "EFCoreCRUDDemo\\Models\\CompanyContext.cs",
+              "ToolTip": "C:\\Users\\Sivalingam.K\\source\\repos\\EFCoreCRUDDemo\\EFCoreCRUDDemo\\Models\\CompanyContext.cs",
+              "RelativeToolTip": "EFCoreCRUDDemo\\Models\\CompanyContext.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAQwBEAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-21T11:09:25.724Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\Sivalingam.K\\source\\repos\\EFCoreCRUDDemo\\EFCoreCRUDDemo\\Views\\Employee\\Edit.cshtml",
+              "RelativeDocumentMoniker": "EFCoreCRUDDemo\\Views\\Employee\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\Sivalingam.K\\source\\repos\\EFCoreCRUDDemo\\EFCoreCRUDDemo\\Views\\Employee\\Edit.cshtml",
+              "RelativeToolTip": "EFCoreCRUDDemo\\Views\\Employee\\Edit.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-21T10:37:53.133Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "EmployeeController.cs",
+              "DocumentMoniker": "C:\\Users\\Sivalingam.K\\source\\repos\\EFCoreCRUDDemo\\EFCoreCRUDDemo\\Controllers\\EmployeeController.cs",
+              "RelativeDocumentMoniker": "EFCoreCRUDDemo\\Controllers\\EmployeeController.cs",
+              "ToolTip": "C:\\Users\\Sivalingam.K\\source\\repos\\EFCoreCRUDDemo\\EFCoreCRUDDemo\\Controllers\\EmployeeController.cs",
+              "RelativeToolTip": "EFCoreCRUDDemo\\Controllers\\EmployeeController.cs",
+              "ViewState": "AgIAACsAAAAAAAAAAAAIwDMAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-21T10:35:53.249Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\Sivalingam.K\\source\\repos\\EFCoreCRUDDemo\\EFCoreCRUDDemo\\Views\\Employee\\Create.cshtml",
+              "RelativeDocumentMoniker": "EFCoreCRUDDemo\\Views\\Employee\\Create.cshtml",
+              "ToolTip": "C:\\Users\\Sivalingam.K\\source\\repos\\EFCoreCRUDDemo\\EFCoreCRUDDemo\\Views\\Employee\\Create.cshtml",
+              "RelativeToolTip": "EFCoreCRUDDemo\\Views\\Employee\\Create.cshtml",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABgAAABCAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-21T09:57:25.149Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Sivalingam.K\\source\\repos\\EFCoreCRUDDemo\\EFCoreCRUDDemo\\Views\\Department\\Index.cshtml",
+              "RelativeDocumentMoniker": "EFCoreCRUDDemo\\Views\\Department\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Sivalingam.K\\source\\repos\\EFCoreCRUDDemo\\EFCoreCRUDDemo\\Views\\Department\\Index.cshtml",
+              "RelativeToolTip": "EFCoreCRUDDemo\\Views\\Department\\Index.cshtml",
+              "ViewState": "AgIAABIAAAAAAAAAAADwvxsAAABWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-21T09:35:41.217Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "DepartmentController.cs",
+              "DocumentMoniker": "C:\\Users\\Sivalingam.K\\source\\repos\\EFCoreCRUDDemo\\EFCoreCRUDDemo\\Controllers\\DepartmentController.cs",
+              "RelativeDocumentMoniker": "EFCoreCRUDDemo\\Controllers\\DepartmentController.cs",
+              "ToolTip": "C:\\Users\\Sivalingam.K\\source\\repos\\EFCoreCRUDDemo\\EFCoreCRUDDemo\\Controllers\\DepartmentController.cs",
+              "RelativeToolTip": "EFCoreCRUDDemo\\Controllers\\DepartmentController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-21T09:33:34.904Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Sivalingam.K\\source\\repos\\EFCoreCRUDDemo\\EFCoreCRUDDemo\\Views\\Employee\\Index.cshtml",
+              "RelativeDocumentMoniker": "EFCoreCRUDDemo\\Views\\Employee\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Sivalingam.K\\source\\repos\\EFCoreCRUDDemo\\EFCoreCRUDDemo\\Views\\Employee\\Index.cshtml",
+              "RelativeToolTip": "EFCoreCRUDDemo\\Views\\Employee\\Index.cshtml",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAACAAAAA/AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-21T09:33:02.224Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

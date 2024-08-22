@@ -39,6 +39,7 @@ namespace WebApplicationMVC.Controllers
                 Revenue = 10000,
                 Established = Convert.ToDateTime("20/10/2000")
             };
+
             companyContext.Entry(info).State = Microsoft.EntityFrameworkCore.EntityState.Added;
             companyContext.SaveChanges();
             return "Added Successfully";

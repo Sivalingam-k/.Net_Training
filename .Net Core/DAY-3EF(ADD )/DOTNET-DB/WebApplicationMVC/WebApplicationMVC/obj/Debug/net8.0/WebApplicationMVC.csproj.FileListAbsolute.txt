@@ -135,3 +135,15 @@ C:\Users\Sivalingam.K\source\repos\WebApplicationMVC\WebApplicationMVC\obj\Debug
 C:\Users\Sivalingam.K\source\repos\WebApplicationMVC\WebApplicationMVC\obj\Debug\net8.0\WebApplicationMVC.pdb
 C:\Users\Sivalingam.K\source\repos\WebApplicationMVC\WebApplicationMVC\obj\Debug\net8.0\WebApplicationMVC.genruntimeconfig.cache
 C:\Users\Sivalingam.K\source\repos\WebApplicationMVC\WebApplicationMVC\obj\Debug\net8.0\ref\WebApplicationMVC.dll
+C:\Users\Sivalingam.K\source\repos\.Net Core\DAY-3EF(ADD )\DOTNET-DB\WebApplicationMVC\WebApplicationMVC\obj\Debug\net8.0\WebApplicationMVC.csproj.AssemblyReference.cache
+C:\Users\Sivalingam.K\source\repos\.Net Core\DAY-3EF(ADD )\DOTNET-DB\WebApplicationMVC\WebApplicationMVC\obj\Debug\net8.0\WebApplicationMVC.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sivalingam.K\source\repos\.Net Core\DAY-3EF(ADD )\DOTNET-DB\WebApplicationMVC\WebApplicationMVC\obj\Debug\net8.0\WebApplicationMVC.AssemblyInfoInputs.cache
+C:\Users\Sivalingam.K\source\repos\.Net Core\DAY-3EF(ADD )\DOTNET-DB\WebApplicationMVC\WebApplicationMVC\obj\Debug\net8.0\WebApplicationMVC.AssemblyInfo.cs
+C:\Users\Sivalingam.K\source\repos\.Net Core\DAY-3EF(ADD )\DOTNET-DB\WebApplicationMVC\WebApplicationMVC\obj\Debug\net8.0\WebApplicationMVC.csproj.CoreCompileInputs.cache
+C:\Users\Sivalingam.K\source\repos\.Net Core\DAY-3EF(ADD )\DOTNET-DB\WebApplicationMVC\WebApplicationMVC\obj\Debug\net8.0\WebApplicationMVC.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Sivalingam.K\source\repos\.Net Core\DAY-3EF(ADD )\DOTNET-DB\WebApplicationMVC\WebApplicationMVC\obj\Debug\net8.0\WebApplicationMVC.RazorAssemblyInfo.cache
+C:\Users\Sivalingam.K\source\repos\.Net Core\DAY-3EF(ADD )\DOTNET-DB\WebApplicationMVC\WebApplicationMVC\obj\Debug\net8.0\WebApplicationMVC.RazorAssemblyInfo.cs
+C:\Users\Sivalingam.K\source\repos\.Net Core\DAY-3EF(ADD )\DOTNET-DB\WebApplicationMVC\WebApplicationMVC\obj\Debug\net8.0\WebApplicationMVC.sourcelink.json
+C:\Users\Sivalingam.K\source\repos\.Net Core\DAY-3EF(ADD )\DOTNET-DB\WebApplicationMVC\WebApplicationMVC\obj\Debug\net8.0\WebApplicationMVC.dll
+C:\Users\Sivalingam.K\source\repos\.Net Core\DAY-3EF(ADD )\DOTNET-DB\WebApplicationMVC\WebApplicationMVC\obj\Debug\net8.0\refint\WebApplicationMVC.dll
+C:\Users\Sivalingam.K\source\repos\.Net Core\DAY-3EF(ADD )\DOTNET-DB\WebApplicationMVC\WebApplicationMVC\obj\Debug\net8.0\WebApplicationMVC.pdb
