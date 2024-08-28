@@ -1,0 +1,156 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Sivalingam.K\\source\\repos\\ErrorDemo\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{430A6ED3-5D2D-4980-B932-D5B754EE4B62}|ErrorDemo\\ErrorDemo.csproj|c:\\users\\sivalingam.k\\source\\repos\\errordemo\\errordemo\\views\\callapi\\flightreservation.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{430A6ED3-5D2D-4980-B932-D5B754EE4B62}|ErrorDemo\\ErrorDemo.csproj|solutionrelative:errordemo\\views\\callapi\\flightreservation.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{430A6ED3-5D2D-4980-B932-D5B754EE4B62}|ErrorDemo\\ErrorDemo.csproj|c:\\users\\sivalingam.k\\source\\repos\\errordemo\\errordemo\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{430A6ED3-5D2D-4980-B932-D5B754EE4B62}|ErrorDemo\\ErrorDemo.csproj|solutionrelative:errordemo\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{430A6ED3-5D2D-4980-B932-D5B754EE4B62}|ErrorDemo\\ErrorDemo.csproj|c:\\users\\sivalingam.k\\source\\repos\\errordemo\\errordemo\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{430A6ED3-5D2D-4980-B932-D5B754EE4B62}|ErrorDemo\\ErrorDemo.csproj|solutionrelative:errordemo\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{430A6ED3-5D2D-4980-B932-D5B754EE4B62}|ErrorDemo\\ErrorDemo.csproj|c:\\users\\sivalingam.k\\source\\repos\\errordemo\\errordemo\\views\\callapi\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{430A6ED3-5D2D-4980-B932-D5B754EE4B62}|ErrorDemo\\ErrorDemo.csproj|solutionrelative:errordemo\\views\\callapi\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{430A6ED3-5D2D-4980-B932-D5B754EE4B62}|ErrorDemo\\ErrorDemo.csproj|c:\\users\\sivalingam.k\\source\\repos\\errordemo\\errordemo\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{430A6ED3-5D2D-4980-B932-D5B754EE4B62}|ErrorDemo\\ErrorDemo.csproj|solutionrelative:errordemo\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{430A6ED3-5D2D-4980-B932-D5B754EE4B62}|ErrorDemo\\ErrorDemo.csproj|c:\\users\\sivalingam.k\\source\\repos\\errordemo\\errordemo\\views\\home\\viewbagexample.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{430A6ED3-5D2D-4980-B932-D5B754EE4B62}|ErrorDemo\\ErrorDemo.csproj|solutionrelative:errordemo\\views\\home\\viewbagexample.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{430A6ED3-5D2D-4980-B932-D5B754EE4B62}|ErrorDemo\\ErrorDemo.csproj|c:\\users\\sivalingam.k\\source\\repos\\errordemo\\errordemo\\views\\home\\sessionbyexample.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{430A6ED3-5D2D-4980-B932-D5B754EE4B62}|ErrorDemo\\ErrorDemo.csproj|solutionrelative:errordemo\\views\\home\\sessionbyexample.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{430A6ED3-5D2D-4980-B932-D5B754EE4B62}|ErrorDemo\\ErrorDemo.csproj|c:\\users\\sivalingam.k\\source\\repos\\errordemo\\errordemo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{430A6ED3-5D2D-4980-B932-D5B754EE4B62}|ErrorDemo\\ErrorDemo.csproj|solutionrelative:errordemo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\Sivalingam.K\\source\\repos\\ErrorDemo\\ErrorDemo\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "ErrorDemo\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\Sivalingam.K\\source\\repos\\ErrorDemo\\ErrorDemo\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "ErrorDemo\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABYAAABGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-28T11:15:29.215Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Sivalingam.K\\source\\repos\\ErrorDemo\\ErrorDemo\\Program.cs",
+              "RelativeDocumentMoniker": "ErrorDemo\\Program.cs",
+              "ToolTip": "C:\\Users\\Sivalingam.K\\source\\repos\\ErrorDemo\\ErrorDemo\\Program.cs",
+              "RelativeToolTip": "ErrorDemo\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-28T09:20:45.554Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "SessionByExample.cshtml",
+              "DocumentMoniker": "C:\\Users\\Sivalingam.K\\source\\repos\\ErrorDemo\\ErrorDemo\\Views\\Home\\SessionByExample.cshtml",
+              "RelativeDocumentMoniker": "ErrorDemo\\Views\\Home\\SessionByExample.cshtml",
+              "ToolTip": "C:\\Users\\Sivalingam.K\\source\\repos\\ErrorDemo\\ErrorDemo\\Views\\Home\\SessionByExample.cshtml",
+              "RelativeToolTip": "ErrorDemo\\Views\\Home\\SessionByExample.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-28T08:54:02.186Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Sivalingam.K\\source\\repos\\ErrorDemo\\ErrorDemo\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "ErrorDemo\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Sivalingam.K\\source\\repos\\ErrorDemo\\ErrorDemo\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "ErrorDemo\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-28T08:42:35.243Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ViewBagExample.cshtml",
+              "DocumentMoniker": "C:\\Users\\Sivalingam.K\\source\\repos\\ErrorDemo\\ErrorDemo\\Views\\Home\\ViewBagExample.cshtml",
+              "RelativeDocumentMoniker": "ErrorDemo\\Views\\Home\\ViewBagExample.cshtml",
+              "ToolTip": "C:\\Users\\Sivalingam.K\\source\\repos\\ErrorDemo\\ErrorDemo\\Views\\Home\\ViewBagExample.cshtml",
+              "RelativeToolTip": "ErrorDemo\\Views\\Home\\ViewBagExample.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-28T08:36:17.879Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\Sivalingam.K\\source\\repos\\ErrorDemo\\ErrorDemo\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "ErrorDemo\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\Sivalingam.K\\source\\repos\\ErrorDemo\\ErrorDemo\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "ErrorDemo\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-28T08:30:48.982Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "FlightReservation.cshtml",
+              "DocumentMoniker": "C:\\Users\\Sivalingam.K\\source\\repos\\ErrorDemo\\ErrorDemo\\Views\\CallApi\\FlightReservation.cshtml",
+              "RelativeDocumentMoniker": "ErrorDemo\\Views\\CallApi\\FlightReservation.cshtml",
+              "ToolTip": "C:\\Users\\Sivalingam.K\\source\\repos\\ErrorDemo\\ErrorDemo\\Views\\CallApi\\FlightReservation.cshtml",
+              "RelativeToolTip": "ErrorDemo\\Views\\CallApi\\FlightReservation.cshtml",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAABgAAAA+AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-28T04:35:33.851Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Sivalingam.K\\source\\repos\\ErrorDemo\\ErrorDemo\\Views\\CallApi\\Index.cshtml",
+              "RelativeDocumentMoniker": "ErrorDemo\\Views\\CallApi\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Sivalingam.K\\source\\repos\\ErrorDemo\\ErrorDemo\\Views\\CallApi\\Index.cshtml",
+              "RelativeToolTip": "ErrorDemo\\Views\\CallApi\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-28T04:34:27.6Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

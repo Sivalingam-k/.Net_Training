@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Sivalingam.K\\source\\repos\\WebAppEFCoreDemo\\WebAppEFCoreDemo\\WebAppEFCoreDemo.csproj",
+      "projectUniqueName": "C:\\Users\\Sivalingam.K\\source\\repos\\.Net Core\\DAY-2EFDEMO\\WebAppEFCoreDemo\\WebAppEFCoreDemo\\WebAppEFCoreDemo.csproj",
       "projectName": "WebAppEFCoreDemo",
-      "projectPath": "C:\\Users\\Sivalingam.K\\source\\repos\\WebAppEFCoreDemo\\WebAppEFCoreDemo\\WebAppEFCoreDemo.csproj",
+      "projectPath": "C:\\Users\\Sivalingam.K\\source\\repos\\.Net Core\\DAY-2EFDEMO\\WebAppEFCoreDemo\\WebAppEFCoreDemo\\WebAppEFCoreDemo.csproj",
       "packagesPath": "C:\\Users\\Sivalingam.K\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Sivalingam.K\\source\\repos\\WebAppEFCoreDemo\\WebAppEFCoreDemo\\obj\\",
+      "outputPath": "C:\\Users\\Sivalingam.K\\source\\repos\\.Net Core\\DAY-2EFDEMO\\WebAppEFCoreDemo\\WebAppEFCoreDemo\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Sivalingam.K\\AppData\\Roaming\\NuGet\\NuGet.Config",

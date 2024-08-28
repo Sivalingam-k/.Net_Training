@@ -1,0 +1,13 @@
+﻿@*
+    For more information on enabling MVC for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
+*@
+@{
+}
+@inject Microsoft.AspNetCore.Http.IHttpContextAccessor HttpContextAccessor;
+
+<h2>
+    Current  DateTime and year :
+    @HttpContextAccessor.HttpContext.Session.GetString("CurrentDateTime")
+    @HttpContextAccessor.HttpContext.Session.GetInt32("CurrentYear")
+
+</h2>
