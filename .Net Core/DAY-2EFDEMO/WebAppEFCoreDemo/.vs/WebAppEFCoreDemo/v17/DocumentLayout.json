@@ -3,6 +3,14 @@
   "WorkspaceRootPath": "C:\\Users\\Sivalingam.K\\source\\repos\\.Net Core\\DAY-2EFDEMO\\WebAppEFCoreDemo\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{4914C9DA-1C82-4192-BD7E-B9139695B6B4}|WebAppEFCoreDemo\\WebAppEFCoreDemo.csproj|c:\\users\\sivalingam.k\\source\\repos\\.net core\\day-2efdemo\\webappefcoredemo\\webappefcoredemo\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4914C9DA-1C82-4192-BD7E-B9139695B6B4}|WebAppEFCoreDemo\\WebAppEFCoreDemo.csproj|solutionrelative:webappefcoredemo\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4914C9DA-1C82-4192-BD7E-B9139695B6B4}|WebAppEFCoreDemo\\WebAppEFCoreDemo.csproj|c:\\users\\sivalingam.k\\source\\repos\\.net core\\day-2efdemo\\webappefcoredemo\\webappefcoredemo\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4914C9DA-1C82-4192-BD7E-B9139695B6B4}|WebAppEFCoreDemo\\WebAppEFCoreDemo.csproj|solutionrelative:webappefcoredemo\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{4914C9DA-1C82-4192-BD7E-B9139695B6B4}|WebAppEFCoreDemo\\WebAppEFCoreDemo.csproj|c:\\users\\sivalingam.k\\source\\repos\\.net core\\day-2efdemo\\webappefcoredemo\\webappefcoredemo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{4914C9DA-1C82-4192-BD7E-B9139695B6B4}|WebAppEFCoreDemo\\WebAppEFCoreDemo.csproj|solutionrelative:webappefcoredemo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
@@ -19,12 +27,38 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Sivalingam.K\\source\\repos\\.Net Core\\DAY-2EFDEMO\\WebAppEFCoreDemo\\WebAppEFCoreDemo\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "WebAppEFCoreDemo\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Sivalingam.K\\source\\repos\\.Net Core\\DAY-2EFDEMO\\WebAppEFCoreDemo\\WebAppEFCoreDemo\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "WebAppEFCoreDemo\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-29T05:06:43.07Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\Sivalingam.K\\source\\repos\\.Net Core\\DAY-2EFDEMO\\WebAppEFCoreDemo\\WebAppEFCoreDemo\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "WebAppEFCoreDemo\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\Sivalingam.K\\source\\repos\\.Net Core\\DAY-2EFDEMO\\WebAppEFCoreDemo\\WebAppEFCoreDemo\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "WebAppEFCoreDemo\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-29T05:06:32.219Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\Sivalingam.K\\source\\repos\\.Net Core\\DAY-2EFDEMO\\WebAppEFCoreDemo\\WebAppEFCoreDemo\\Program.cs",
               "RelativeDocumentMoniker": "WebAppEFCoreDemo\\Program.cs",
               "ToolTip": "C:\\Users\\Sivalingam.K\\source\\repos\\.Net Core\\DAY-2EFDEMO\\WebAppEFCoreDemo\\WebAppEFCoreDemo\\Program.cs",
               "RelativeToolTip": "WebAppEFCoreDemo\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAaAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAtAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-08-20T06:42:59.134Z",
               "EditorCaption": ""

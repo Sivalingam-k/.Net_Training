@@ -1,0 +1,117 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Sivalingam.K\\Downloads\\EFCoreTask\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0A80BA34-386E-43B6-968B-1492A6520AB6}|EFCoreTask\\EFCoreTask.csproj|c:\\users\\sivalingam.k\\downloads\\efcoretask\\efcoretask\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0A80BA34-386E-43B6-968B-1492A6520AB6}|EFCoreTask\\EFCoreTask.csproj|solutionrelative:efcoretask\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0A80BA34-386E-43B6-968B-1492A6520AB6}|EFCoreTask\\EFCoreTask.csproj|c:\\users\\sivalingam.k\\downloads\\efcoretask\\efcoretask\\views\\employee\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0A80BA34-386E-43B6-968B-1492A6520AB6}|EFCoreTask\\EFCoreTask.csproj|solutionrelative:efcoretask\\views\\employee\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0A80BA34-386E-43B6-968B-1492A6520AB6}|EFCoreTask\\EFCoreTask.csproj|c:\\users\\sivalingam.k\\downloads\\efcoretask\\efcoretask\\controllers\\employeecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0A80BA34-386E-43B6-968B-1492A6520AB6}|EFCoreTask\\EFCoreTask.csproj|solutionrelative:efcoretask\\controllers\\employeecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0A80BA34-386E-43B6-968B-1492A6520AB6}|EFCoreTask\\EFCoreTask.csproj|c:\\users\\sivalingam.k\\downloads\\efcoretask\\efcoretask\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0A80BA34-386E-43B6-968B-1492A6520AB6}|EFCoreTask\\EFCoreTask.csproj|solutionrelative:efcoretask\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0A80BA34-386E-43B6-968B-1492A6520AB6}|EFCoreTask\\EFCoreTask.csproj|c:\\users\\sivalingam.k\\downloads\\efcoretask\\efcoretask\\models\\changepondcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0A80BA34-386E-43B6-968B-1492A6520AB6}|EFCoreTask\\EFCoreTask.csproj|solutionrelative:efcoretask\\models\\changepondcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0A80BA34-386E-43B6-968B-1492A6520AB6}|EFCoreTask\\EFCoreTask.csproj|c:\\users\\sivalingam.k\\downloads\\efcoretask\\efcoretask\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0A80BA34-386E-43B6-968B-1492A6520AB6}|EFCoreTask\\EFCoreTask.csproj|solutionrelative:efcoretask\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Sivalingam.K\\Downloads\\EFCoreTask\\EFCoreTask\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "EFCoreTask\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Sivalingam.K\\Downloads\\EFCoreTask\\EFCoreTask\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "EFCoreTask\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-29T10:19:09.553Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ChangepondContext.cs",
+              "DocumentMoniker": "C:\\Users\\Sivalingam.K\\Downloads\\EFCoreTask\\EFCoreTask\\Models\\ChangepondContext.cs",
+              "RelativeDocumentMoniker": "EFCoreTask\\Models\\ChangepondContext.cs",
+              "ToolTip": "C:\\Users\\Sivalingam.K\\Downloads\\EFCoreTask\\EFCoreTask\\Models\\ChangepondContext.cs",
+              "RelativeToolTip": "EFCoreTask\\Models\\ChangepondContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-29T10:11:18.353Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Sivalingam.K\\Downloads\\EFCoreTask\\EFCoreTask\\Views\\Employee\\Index.cshtml",
+              "RelativeDocumentMoniker": "EFCoreTask\\Views\\Employee\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Sivalingam.K\\Downloads\\EFCoreTask\\EFCoreTask\\Views\\Employee\\Index.cshtml",
+              "RelativeToolTip": "EFCoreTask\\Views\\Employee\\Index.cshtml",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAABEAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-29T10:01:50.687Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "EmployeeController.cs",
+              "DocumentMoniker": "C:\\Users\\Sivalingam.K\\Downloads\\EFCoreTask\\EFCoreTask\\Controllers\\EmployeeController.cs",
+              "RelativeDocumentMoniker": "EFCoreTask\\Controllers\\EmployeeController.cs",
+              "ToolTip": "C:\\Users\\Sivalingam.K\\Downloads\\EFCoreTask\\EFCoreTask\\Controllers\\EmployeeController.cs",
+              "RelativeToolTip": "EFCoreTask\\Controllers\\EmployeeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-29T07:21:24.253Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Sivalingam.K\\Downloads\\EFCoreTask\\EFCoreTask\\Program.cs",
+              "RelativeDocumentMoniker": "EFCoreTask\\Program.cs",
+              "ToolTip": "C:\\Users\\Sivalingam.K\\Downloads\\EFCoreTask\\EFCoreTask\\Program.cs",
+              "RelativeToolTip": "EFCoreTask\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-29T07:12:51.846Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\Sivalingam.K\\Downloads\\EFCoreTask\\EFCoreTask\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "EFCoreTask\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\Sivalingam.K\\Downloads\\EFCoreTask\\EFCoreTask\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "EFCoreTask\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAAACQAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-29T06:37:38.833Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

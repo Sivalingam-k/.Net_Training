@@ -7,7 +7,8 @@
       "RelativeMoniker": "D:0:0:{C152901E-EAB4-4AC6-B684-7DE40C1B9AA3}|WebApplicationMVC\\WebApplicationMVC.csproj|solutionrelative:webapplicationmvc\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|ViewDataWindow_MSSQL__/_localdb__ProjectModels/Company/True/SqlTable/dbo.Information.sql||{0058A1F7-65F3-4DB9-B3D0-CA7E64DD73CD}"
+      "AbsoluteMoniker": "D:0:0:{C152901E-EAB4-4AC6-B684-7DE40C1B9AA3}|WebApplicationMVC\\WebApplicationMVC.csproj|c:\\users\\sivalingam.k\\source\\repos\\.net core\\day-3ef(add )\\dotnet-db\\webapplicationmvc\\webapplicationmvc\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C152901E-EAB4-4AC6-B684-7DE40C1B9AA3}|WebApplicationMVC\\WebApplicationMVC.csproj|solutionrelative:webapplicationmvc\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{C152901E-EAB4-4AC6-B684-7DE40C1B9AA3}|WebApplicationMVC\\WebApplicationMVC.csproj|c:\\users\\sivalingam.k\\source\\repos\\.net core\\day-3ef(add )\\dotnet-db\\webapplicationmvc\\webapplicationmvc\\models\\companycontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -22,10 +23,6 @@
       "RelativeMoniker": "D:0:0:{C152901E-EAB4-4AC6-B684-7DE40C1B9AA3}|WebApplicationMVC\\WebApplicationMVC.csproj|solutionrelative:webapplicationmvc\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C152901E-EAB4-4AC6-B684-7DE40C1B9AA3}|WebApplicationMVC\\WebApplicationMVC.csproj|c:\\users\\sivalingam.k\\source\\repos\\.net core\\day-3ef(add )\\dotnet-db\\webapplicationmvc\\webapplicationmvc\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C152901E-EAB4-4AC6-B684-7DE40C1B9AA3}|WebApplicationMVC\\WebApplicationMVC.csproj|solutionrelative:webapplicationmvc\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{C152901E-EAB4-4AC6-B684-7DE40C1B9AA3}|WebApplicationMVC\\WebApplicationMVC.csproj|c:\\users\\sivalingam.k\\source\\repos\\.net core\\day-3ef(add )\\dotnet-db\\webapplicationmvc\\webapplicationmvc\\migrations\\20240820113622_migrations.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{C152901E-EAB4-4AC6-B684-7DE40C1B9AA3}|WebApplicationMVC\\WebApplicationMVC.csproj|solutionrelative:webapplicationmvc\\migrations\\20240820113622_migrations.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
@@ -37,17 +34,8 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 0,
           "Children": [
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "dbo.Information [Data]",
-              "DocumentMoniker": "ViewDataWindow_MSSQL__/_localdb__ProjectModels/Company/True/SqlTable/dbo.Information.sql",
-              "ToolTip": "dbo.Information [Data]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
-              "WhenOpened": "2024-08-20T11:50:38.335Z"
-            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
@@ -56,14 +44,14 @@
               "RelativeDocumentMoniker": "WebApplicationMVC\\Controllers\\HomeController.cs",
               "ToolTip": "C:\\Users\\Sivalingam.K\\source\\repos\\.Net Core\\DAY-3EF(ADD )\\DOTNET-DB\\WebApplicationMVC\\WebApplicationMVC\\Controllers\\HomeController.cs",
               "RelativeToolTip": "WebApplicationMVC\\Controllers\\HomeController.cs",
-              "ViewState": "AgIAABgAAAAAAAAAAAAwwCoAAAAtAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-08-20T11:40:31.1Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 5,
               "Title": "20240820113622_Migrations.cs",
               "DocumentMoniker": "C:\\Users\\Sivalingam.K\\source\\repos\\.Net Core\\DAY-3EF(ADD )\\DOTNET-DB\\WebApplicationMVC\\WebApplicationMVC\\Migrations\\20240820113622_Migrations.cs",
               "RelativeDocumentMoniker": "WebApplicationMVC\\Migrations\\20240820113622_Migrations.cs",
@@ -87,15 +75,16 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 1,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\Sivalingam.K\\source\\repos\\.Net Core\\DAY-3EF(ADD )\\DOTNET-DB\\WebApplicationMVC\\WebApplicationMVC\\Program.cs",
               "RelativeDocumentMoniker": "WebApplicationMVC\\Program.cs",
               "ToolTip": "C:\\Users\\Sivalingam.K\\source\\repos\\.Net Core\\DAY-3EF(ADD )\\DOTNET-DB\\WebApplicationMVC\\WebApplicationMVC\\Program.cs",
               "RelativeToolTip": "WebApplicationMVC\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAsAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-20T11:24:20.326Z"
+              "WhenOpened": "2024-08-20T11:24:20.326Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -105,9 +94,10 @@
               "RelativeDocumentMoniker": "WebApplicationMVC\\Models\\CompanyContext.cs",
               "ToolTip": "C:\\Users\\Sivalingam.K\\source\\repos\\.Net Core\\DAY-3EF(ADD )\\DOTNET-DB\\WebApplicationMVC\\WebApplicationMVC\\Models\\CompanyContext.cs",
               "RelativeToolTip": "WebApplicationMVC\\Models\\CompanyContext.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAiAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-20T11:13:51.159Z"
+              "WhenOpened": "2024-08-20T11:13:51.159Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -117,9 +107,10 @@
               "RelativeDocumentMoniker": "WebApplicationMVC\\Models\\Information.cs",
               "ToolTip": "C:\\Users\\Sivalingam.K\\source\\repos\\.Net Core\\DAY-3EF(ADD )\\DOTNET-DB\\WebApplicationMVC\\WebApplicationMVC\\Models\\Information.cs",
               "RelativeToolTip": "WebApplicationMVC\\Models\\Information.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAeAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAVAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-20T11:12:03.815Z"
+              "WhenOpened": "2024-08-20T11:12:03.815Z",
+              "EditorCaption": ""
             }
           ]
         }

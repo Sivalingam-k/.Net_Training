@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "XCen43NPkKM=",
+  "dgSpecHash": "VHDpUFI4HI8=",
   "success": true,
-  "projectFilePath": "C:\\Users\\Sivalingam.K\\source\\repos\\ErrorDemo\\ErrorDemo\\ErrorDemo.csproj",
+  "projectFilePath": "C:\\Users\\Sivalingam.K\\source\\repos\\.Net Core\\DAY-7(LOGIN WITH SESSION)\\ErrorDemo\\ErrorDemo\\ErrorDemo.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Sivalingam.K\\.nuget\\packages\\microsoft.aspnetcore.authentication.jwtbearer\\8.0.8\\microsoft.aspnetcore.authentication.jwtbearer.8.0.8.nupkg.sha512",
     "C:\\Users\\Sivalingam.K\\.nuget\\packages\\microsoft.identitymodel.abstractions\\8.0.2\\microsoft.identitymodel.abstractions.8.0.2.nupkg.sha512",

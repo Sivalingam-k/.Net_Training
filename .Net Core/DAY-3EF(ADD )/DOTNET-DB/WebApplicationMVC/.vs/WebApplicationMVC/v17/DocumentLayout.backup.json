@@ -42,9 +42,9 @@
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "dbo.Information.sql",
+              "Title": "dbo.Information [Data]",
               "DocumentMoniker": "ViewDataWindow_MSSQL__/_localdb__ProjectModels/Company/True/SqlTable/dbo.Information.sql",
-              "ToolTip": "ViewDataWindow_MSSQL__/_localdb__ProjectModels/Company/True/SqlTable/dbo.Information.sql",
+              "ToolTip": "dbo.Information [Data]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
               "WhenOpened": "2024-08-20T11:50:38.335Z"
             },
@@ -54,9 +54,9 @@
               "Title": "HomeController.cs",
               "DocumentMoniker": "C:\\Users\\Sivalingam.K\\source\\repos\\.Net Core\\DAY-3EF(ADD )\\DOTNET-DB\\WebApplicationMVC\\WebApplicationMVC\\Controllers\\HomeController.cs",
               "RelativeDocumentMoniker": "WebApplicationMVC\\Controllers\\HomeController.cs",
-              "ToolTip": "C:\\Users\\Sivalingam.K\\source\\repos\\.Net Core\\DAY-3EF(ADD )\\DOTNET-DB\\WebApplicationMVC\\WebApplicationMVC\\Controllers\\HomeController.cs*",
-              "RelativeToolTip": "WebApplicationMVC\\Controllers\\HomeController.cs*",
-              "ViewState": "AgIAABgAAAAAAAAAAAAwwC8AAAAOAAAAAAAAAA==",
+              "ToolTip": "C:\\Users\\Sivalingam.K\\source\\repos\\.Net Core\\DAY-3EF(ADD )\\DOTNET-DB\\WebApplicationMVC\\WebApplicationMVC\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "WebApplicationMVC\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAAwwCoAAAAtAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-08-20T11:40:31.1Z",
               "EditorCaption": ""

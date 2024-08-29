@@ -364,11 +364,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Sivalingam.K\\source\\repos\\ErrorDemo\\ErrorDemo\\ErrorDemo.csproj",
+      "projectUniqueName": "C:\\Users\\Sivalingam.K\\source\\repos\\.Net Core\\DAY-7(LOGIN WITH SESSION)\\ErrorDemo\\ErrorDemo\\ErrorDemo.csproj",
       "projectName": "ErrorDemo",
-      "projectPath": "C:\\Users\\Sivalingam.K\\source\\repos\\ErrorDemo\\ErrorDemo\\ErrorDemo.csproj",
+      "projectPath": "C:\\Users\\Sivalingam.K\\source\\repos\\.Net Core\\DAY-7(LOGIN WITH SESSION)\\ErrorDemo\\ErrorDemo\\ErrorDemo.csproj",
       "packagesPath": "C:\\Users\\Sivalingam.K\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Sivalingam.K\\source\\repos\\ErrorDemo\\ErrorDemo\\obj\\",
+      "outputPath": "C:\\Users\\Sivalingam.K\\source\\repos\\.Net Core\\DAY-7(LOGIN WITH SESSION)\\ErrorDemo\\ErrorDemo\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Sivalingam.K\\AppData\\Roaming\\NuGet\\NuGet.Config",
